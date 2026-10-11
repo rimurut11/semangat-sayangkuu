@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Ganti teks URL di bawah dengan link file .mp3 online atau 
     // letakkan file lagu di folder yang sama lalu tulis namanya (misal: "lagu.mp3")
     // ==========================================================
-    const BACKGROUND_MUSIC_URL = "music/Sad Forever.mp3";
+    const BACKGROUND_MUSIC_URL = "Sad Forever.mp3";
 
     // 1. PIN LOCK SCREEN (Bisa diubah kodenya di sini)
     const CORRECT_PIN = "1625"; 
